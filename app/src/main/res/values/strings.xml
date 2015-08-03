@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProfessorShakeCRFS</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Q1">รูปแบบการเช็คชื่อ</string>
+    <string name="ans1_1">QR Code</string>
+    <string name="ans1_2">Shake</string>
+    <string name="ans1_3">Barcode</string>
+    <string name="ans1_4">Check List</string>
+    <string name="ans1_5">Qiz</string>
+    <string name="title_activity_history">History</string>
+</resources>
